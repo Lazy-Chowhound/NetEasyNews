@@ -1,0 +1,15 @@
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "HJA-sV-kOf"; */
+"HJA-sV-kOf.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Value"; ObjectID = "KQv-dz-3JB"; */
+"KQv-dz-3JB.text" = "Valor";
+
+/* Class = "IBUILabel"; text = "Name"; ObjectID = "OPA-q0-nF6"; */
+"OPA-q0-nF6.text" = "Nombre";
+
+/* Class = "IBUILabel"; text = "Serial"; ObjectID = "hWA-q4-Sp7"; */
+"hWA-q4-Sp7.text" = "Numero de serie";
+
+/* Class = "IBUIBarButtonItem"; title = "Item"; ObjectID = "q9v-xi-e5Z"; */
+"q9v-xi-e5Z.title" = "Item";
